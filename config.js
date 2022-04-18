@@ -54,7 +54,7 @@ var config = {
         "若这一切太难": "./imgs/Screenshot_20220222_224200_com.tencent.mm.jpg",
         "我只愿你一生简单": "./imgs/Screenshot_20220228_171129_com.tencent.mm.jpg",
         "一生平安！ ": "./imgs/Screenshot_20220301_191419_com.tencent.mm.jpg",
-        "不是生日,也要快乐": "./imgs/Screenshot_20220301_191745_com.tencent.mm.jpgg",
+        "不是生日,也要快乐": "./imgs/Screenshot_20220301_191745_com.tencent.mm.jpg",
         "是生日,更要快乐": "./imgs/Screenshot_20220302_124820_com.tencent.mm.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
