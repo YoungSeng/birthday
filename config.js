@@ -12,19 +12,19 @@ var config = {
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
         "愿你贪吃不胖"，
-        "愿你懒惰不丑”,
-        "愿你永远健康美好依旧"， 
-        "愿你从旧衣服找到零钱"， 
-        "愿你做过的美梦全都实现", 
-        "愿你永远都有好运气"， 
-        "原这岁月悠长",
-        "我们即使不见亦能不散"， 
-        "若这一切太难"，
-        "我只愿你一生简单"，
-        "一生平安！ "，
-        "不是生日，也要快乐"，
-        "是生日，更要快乐"，
-        "2022.4.16",
+        "愿你懒惰不丑", 
+        "愿你永远健康美好依旧", 
+        "愿你从旧衣服找到零钱",  
+        "愿你做过的美梦全都实现",  
+        "愿你永远都有好运气", 
+        "原这岁月悠长", 
+        "我们即使不见亦能不散", 
+        "若这一切太难", 
+        "我只愿你一生简单", 
+        "一生平安！ ", 
+        "不是生日，也要快乐", 
+        "是生日，更要快乐", 
+        "2022.4.16", 
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -43,19 +43,19 @@ var config = {
         "今年要吃好的喽哦": "./imgs/Screenshot_20220101_000119_com.tencent.mm.jpg",
         "要把我家可爱猪猪喂饱饱": "./imgs/Screenshot_20220108_141049_com.tencent.mm.jpg",
         "然后抱走": "./imgs/Screenshot_20220130_005729_com.tencent.mm.jpg",
-        "愿你贪吃不胖": "./imgs/Screenshot_20220131_003925_com.tencent.mm.jpg"，
+        "愿你贪吃不胖": "./imgs/Screenshot_20220131_003925_com.tencent.mm.jpg",
         "愿你懒惰不丑”: "./imgs/Screenshot_20220131_124542_com.tencent.mm.jpg",
-        "愿你永远健康美好依旧": "./imgs/Screenshot_20220202_221748_com.tencent.mm.jpg"， 
-        "愿你从旧衣服找到零钱": "./imgs/Screenshot_20220203_161210_com.tencent.mm.jpg"， 
+        "愿你永远健康美好依旧": "./imgs/Screenshot_20220202_221748_com.tencent.mm.jpg", 
+        "愿你从旧衣服找到零钱": "./imgs/Screenshot_20220203_161210_com.tencent.mm.jpg", 
         "愿你做过的美梦全都实现": "./imgs/Screenshot_20220204_193835_com.tencent.mm.jpg", 
-        "愿你永远都有好运气": "./imgs/Screenshot_20220205_180434_com.tencent.mm.jpg"， 
+        "愿你永远都有好运气": "./imgs/Screenshot_20220205_180434_com.tencent.mm.jpg", 
         "原这岁月悠长": "./imgs/Screenshot_20220219_232806_com.tencent.mm.jpg",
-        "我们即使不见亦能不散": "./imgs/Screenshot_20220222_182953_com.tencent.mm.jpg"， 
-        "若这一切太难": "./imgs/Screenshot_20220222_224200_com.tencent.mm.jpg"，
-        "我只愿你一生简单": "./imgs/Screenshot_20220228_171129_com.tencent.mm.jpg"，
-        "一生平安！ ": "./imgs/Screenshot_20220301_191419_com.tencent.mm.jpg"，
-        "不是生日，也要快乐": "./imgs/Screenshot_20220301_191745_com.tencent.mm.jpgg"，
-        "是生日，更要快乐": "./imgs/Screenshot_20220302_124820_com.tencent.mm.jpg"，
+        "我们即使不见亦能不散": "./imgs/Screenshot_20220222_182953_com.tencent.mm.jpg", 
+        "若这一切太难": "./imgs/Screenshot_20220222_224200_com.tencent.mm.jpg",
+        "我只愿你一生简单": "./imgs/Screenshot_20220228_171129_com.tencent.mm.jpg",
+        "一生平安！ ": "./imgs/Screenshot_20220301_191419_com.tencent.mm.jpg",
+        "不是生日，也要快乐": "./imgs/Screenshot_20220301_191745_com.tencent.mm.jpgg",
+        "是生日，更要快乐": "./imgs/Screenshot_20220302_124820_com.tencent.mm.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
